@@ -1,0 +1,14 @@
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.csprojAssemblyReference.cache
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.csproj.CoreCompileInputs.cache
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.RazorAssemblyInfo.cache
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.RazorAssemblyInfo.cs
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.AssemblyInfoInputs.cache
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.AssemblyInfo.cs
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/bin/Debug/netcoreapp2.2/signalr-netcore.deps.json
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/bin/Debug/netcoreapp2.2/signalr-netcore.runtimeconfig.json
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/bin/Debug/netcoreapp2.2/signalr-netcore.runtimeconfig.dev.json
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/bin/Debug/netcoreapp2.2/signalr-netcore.dll
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/bin/Debug/netcoreapp2.2/signalr-netcore.pdb
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.RazorTargetAssemblyInfo.cache
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.dll
+/home/marco/GIT/hanrellz/signalr-angular-netcore/signalr-netcore/obj/Debug/netcoreapp2.2/signalr-netcore.pdb
